@@ -4,8 +4,8 @@ email: Jn222yq@student.lnu.se
 description: This is my awesome description
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "Notaturtle.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  Noraturtle
+twitter_username: LederIngenVart
+github_username:  Notaturtle
 
 # Build settings
 markdown: kramdown
