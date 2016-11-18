@@ -48,7 +48,7 @@ categories: jekyll update
 
 - What is Open Graph and how do you make use of it?
 <br>
-    Det gör det möjligt att kommentera på en webbplats utan att behöva skapa ett account. Du som användare loggar helt enkelt in via facebook och kan sedan skriva kommentarer på ett flertal webbplatser.
+    Jag har fattat det som att Open Graph skapar meta taggar när man t.ex delar något på facebook. Så man kan ha en meta tag för url, en för bild, ect. Och detta kommer senare visas när någon delar det på sociala medier.
 
 
 [jekyll]:      http://jekyllrb.com
